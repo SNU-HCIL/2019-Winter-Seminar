@@ -16,6 +16,7 @@ This is a seminar for Master's students, aiming to learn how to perform qualitat
 * Seokhyeon Park
 * Seokweon Jung
 * Thanh Dung Ho
+* Jung Hyeon
 * (Youngtaek Kim)
 
 # TODO
