@@ -128,4 +128,4 @@ This is a seminar for Master's students, aiming to learn how to perform qualitat
   </tr>
 </table>
 
-(Youngtaek Kim might join)
+(Youngtaek Kim said he will join us depending on the plan -> should ask him)
