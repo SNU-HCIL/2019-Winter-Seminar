@@ -6,7 +6,7 @@ Being HCI researchers, we often encounter research topics which involves qualita
 
 * Formal interview and user study (e.g., building questionaire, how to record it)
 * Qualitative analysis (e.g., coding, thematic analysis)
-* How to report it in academic manners
+* How to report the result in academic manners
 
 ## Learning Materials
 
