@@ -2,7 +2,7 @@
 
 **This is a seminar for Master's students in [SNU-HCIL](http://hcil.snu.ac.kr).**  
 
-Being HCI researchers, we often encounter research topics which involves qualitative research methods. However, compared to quantitative analysis, how to conduct qualitative research is not well known to students. This seminar aims to help students learn it by doing 2-months toy projects. This includes:
+Being HCI researchers, we often encounter research topics which involves qualitative research methods. However, compared to quantitative analysis, how to conduct qualitative research is not well known to students. This seminar aims to help students learn it by performing 2-month long group projects. The projects will include:
 
 * Formal interview and user study (e.g., building questionaire, how to record it)
 * Qualitative analysis (e.g., coding, thematic analysis)
