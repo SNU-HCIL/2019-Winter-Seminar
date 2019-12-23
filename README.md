@@ -48,16 +48,18 @@ This is a seminar for Master's students, aiming to learn how to perform qualitat
 * The presentation should be within 8 minutes including Q & A
 * All other HCIL members can also join this session
   
-### Week 3: Set Research Topic &  Data Collection Plan (1/17)
+### Week 3: Set Research Topic & Write Draft Porposal (1/17)
 
 * Participants will be devided into 3 groups this day.
-* Each group should decide one tentative research topic
+* Each group should decide one tentative research topic, and write project proposal
+  * The topic must involve qualitative data collection and analysis
+* **During the week, Youngho Kim will review the proposal**
 
-Make criteria of good research topic. Make %d groups, and each group should decide one topic for a %d-week project. The topics should include at least one non-trivial qualitative research method, and the data used should be obtained manually.
+### Week 4: Present Project Proposal (1/24)
 
-### Week 4: Collect Data (1/24)
+* Present the project proposal that reflects Youngho Kim's feedback
 
-Present collected data. The more, the better
+> From week 4, plans might change. Also there MIGHT be Youngho Kim's guest lecture, once in Week 4~6
 
 ### Week 5: Refine Data (1/31)
 
@@ -65,9 +67,18 @@ Present collected data. The more, the better
 
 ### Week 7: Write Small Paper (2/14)
 
-### Week 8: Peer Review (2/21)
+* 2 ~ 4 page
+* Using overleaf
 
-### Week 9: Finalize the papers and publicize to inter-college facebook group
+### Week 8: Paper Review (2/21)
+
+* Using overleaf comment feature
+* Youngho Kim's review?
+
+### Week 9: Finalize the papers and publicize
+
+* At lab-seminar
+* To HCI facebook group?
 
 ## Participants
 
