@@ -88,7 +88,7 @@ Being HCI researchers, we often encounter research topics which involves qualita
   <tr>
     <td>
       <img src="http://hcil.snu.ac.kr/system/people/profile_images/37/retina/ae2c7f34ee02bcae702939f237ae9c6eba4c2652.jpg" width="100" />
-      <strong><p>Kiroong Choe</p><p>(leading member)</p></strong>
+      <strong><p>Kiroong Choe</p></strong>
     </td>
     <td>
       <img src="http://hcil.snu.ac.kr/system/people/profile_images/50/retina/1938ad32ddb91c135e9c41d3d474efef10c6f6e4.jpg" width="100" />
