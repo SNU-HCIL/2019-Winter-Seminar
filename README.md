@@ -1,6 +1,8 @@
 # Introduction to Qualitative Research & Practice
 
-This is a seminar for Master's students, aiming to learn how to perform qualitative research. The topics include the following:
+**This is a seminar for Master's students in [SNU-HCIL](http://hcil.snu.ac.kr).**  
+
+Being HCI researchers, we often encounter research topics which involves qualitative research methods. However, compared to quantitative analysis, how to conduct qualitative research is not well known to students. This seminar aims to help students learn it by doing 2-months toy projects. This includes:
 
 * Formal interview and user study (e.g., building questionaire, how to record it)
 * Qualitative analysis (e.g., coding, thematic analysis)
@@ -59,7 +61,7 @@ This is a seminar for Master's students, aiming to learn how to perform qualitat
 
 * Present the project proposal that reflects Youngho Kim's feedback
 
-> From week 4, plans might change. Also there MIGHT be Youngho Kim's guest lecture, once in Week 4~6
+> From week 4, plans might change. Also there MIGHT be Youngho Kim's guest lecture in Week 4~6
 
 ### Week 5: Refine Data (1/31)
 
