@@ -40,9 +40,9 @@ Being HCI researchers, we often encounter research topics which involves qualita
 
 As a participant, you are required to do the following during this seminar:
 
-1. 8-minute-long presentation that introduces core concepts in one chapter of the textbook (individual)
-1. A toy research project from ideation to publication (group)
-1. 1-hour-long lecture regarding one chapter of the textbook (group)
+1. **(individual) 8-minute-long presentation** that introduces core concepts in one chapter of the textbook
+1. **(group) A toy research project** from ideation to publication
+1. **(group) 1-hour-long lecture** regarding one chapter of the textbook
 
 
 ### Week 1: Orientation (~~1/3~~ -> 1/6)
