@@ -38,6 +38,13 @@ Being HCI researchers, we often encounter research topics which involves qualita
 
 ## Syllabus
 
+As a participant, you are required to do the following during this seminar:
+
+1. 8-minute-long presentation that introduces core concepts in one chapter of the textbook (individual)
+1. A toy research project from ideation to publication (group)
+1. 1-hour-long lecture regarding one chapter of the textbook (group)
+
+
 ### Week 1: Orientation (~~1/3~~ -> 1/6)
 
 * Self-Introduction Time (including favorite topics in qualitative research field)
@@ -66,25 +73,30 @@ Being HCI researchers, we often encounter research topics which involves qualita
 
 * Present the project proposal that reflects Youngho Kim's feedback
 
-> From week 4, plans might change. Also there MIGHT be Youngho Kim's guest lecture in Week 4~6
+> During week 5 ~ 7, each group should proceed with the project on their own.
 
-### Week 5: Refine Data (1/31)
+### Week 5: Lecture by Group 1 (1/31)
 
-### Week 6: Data Analysis (2/7)
+* Members: OOO, OOO, OOO
+* Topic: XXXXXXXXXX
 
-### Week 7: Write Small Paper (2/14)
+### Week 6: Lecture by Group 2 (2/7)
 
-* 2 ~ 4 page
-* Using overleaf
+* Members: OOO, OOO, OOO
+* Topic: XXXXXXXXXX
 
-### Week 8: Paper Review (2/21)
+### Week 7: Lecture by Group 3 (2/14)
 
-* Using overleaf comment feature
-* Youngho Kim's review?
+* Members: OOO, OOO, OOO
+* Topic: XXXXXXXXXX
 
-### Week 9: Finalize the papers and publicize
+### Week 8: Write a Small Paper (2/21)
 
-* At lab-seminar
+* Write a small paper of 2~4 pages using Overleaf
+
+### Week 9: Finalize the Paper and Publicize
+
+* At lab-seminar?
 * To HCI facebook group?
 
 ## Participants
