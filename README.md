@@ -29,11 +29,16 @@ Being HCI researchers, we often encounter research topics which involves qualita
 ### Papers
 
 * Using thematic analysis in psychology [#](https://www.tandfonline.com/doi/abs/10.1191/1478088706qp063oa)
-* *(To be added later)*
+* Mixed Methods: Integrating Quantitative and Qualitative Data Collection and Analysis While Studying Patient-Centered Medical Home Models
+
+### Others
+
+* Mobile User Research: A Practical Guide
+* 근거이론의 구성: 질적 분석의 실천 지침
 
 ## Syllabus
 
-### Week 1: Orientation (1/3)
+### Week 1: Orientation (~~1/3~~ -> 1/6)
 
 * Self-Introduction Time (including favorite topics in qualitative research field)
 * Kiroong's Keynote
