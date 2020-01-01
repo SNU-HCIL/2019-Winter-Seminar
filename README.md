@@ -62,7 +62,7 @@ As a participant, you are required to do the following during this seminar:
 * The presentation should be within 8 minutes including Q & A
 * All other HCIL members can also join this session
   
-### Week 3: Set Research Topic & Write Draft Porposal (1/17)
+### Week 3: Set Research Topic & Write Draft Proposal (1/17)
 
 * Participants will be devided into 3 groups this day.
 * Each group should decide one tentative research topic, and write project proposal
@@ -147,4 +147,4 @@ As a participant, you are required to do the following during this seminar:
   </tr>
 </table>
 
-(Sorted in alphabetical order except a leading member. Youngtaek Kim said he will join us depending on the plan -> should ask him)
+(Sorted in alphabetical order except a leading member)
